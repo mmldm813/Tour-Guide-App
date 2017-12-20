@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="miami_city_description">
+        Miami is an international city at Floridas southeastern tip. Its Cuban influence is
+        reflected in the cafes and cigar shops that line Calle Ocho in Little Havana. On barrier
+        islands across the turquoise waters of Biscayne Bay is Miami Beach, home to South Beach.
+        This glamorous neighborhood is famed for its colorful art deco buildings, white sand,
+        surfside hotels and trendsetting nightclubs.
+    </string>
+    <string name="vizcaya_description">The Vizcaya Museum and Gardens, previously known as Villa
+        Vizcaya, is the former villa and estate of businessman James Deering, of the Deering
+        McCormick-International Harvester fortune, on Biscayne Bay in the present day Coconut
+        Grove neighborhood of Miami, Florida. The early 20th century Vizcaya estate also includes:
+        extensive Italian Renaissance gardens; native woodland landscape; and a historic village
+        outbuildings compound. The landscape and architecture were influenced by Veneto and Tuscan
+        Italian Renaissance models and designed in the Mediterranean Revival architecture style,
+        with Baroque elements. Paul Chalfin was the design director. Miami-Dade County
+        now owns the Vizcaya property, as the Vizcaya Museum and Gardens, which is open to the
+        public. The location is served by the Vizcaya Station of the Miami Metrorail.</string>
+    <string name="lincoln_road_description">Lincoln Road Mall is a pedestrian road running east-west
+        parallel between 16th Street and 17th Street in Miami Beach, Florida, United States. Once
+        completely open to vehicular traffic, it now hosts a pedestrian mall replete with shops,
+        restaurants, galleries, and other businesses between Washington Avenue with a traffic
+        accessible street extending east to the Atlantic Ocean and west to Alton Road with a traffic
+        accessible street extending to Biscayne Bay.</string>
+    <string name="coral_castle_description">Coral Castle is an oolite limestone structure created
+        by the Latvian American eccentric Edward Leedskalnin (1887–1951). It is located in Leisure
+        City, Florida, in Miami-Dade County at the intersection of South Dixie Highway (U.S. 1) and
+        SW 157th Avenue. The structure comprises numerous megalithic stones, mostly limestone formed
+        from coral, each weighing several tons. It is currently a privately operated tourist
+        attraction. Coral Castle is noted for legends surrounding its creation that claim it was
+        built single-handedly by Leedskalnin using reverse magnetism or supernatural abilities to
+        move and carve numerous stones weighing many tons</string>
+    <string name="venetian_pool_description">
+        Venetian Pool is a historic U.S. public swimming pool located in Coral Gables, Florida.
+        Completed in 1924, it was designed by Phineas Paist with Denman Fink.The pool occupies a
+        shallow quarry displacing some 820,000 US gallons (3,100 m3) of fresh water daily from
+        artesian wells, making it the largest freshwater pool in the United States.The pool ranges
+        in depth from four feet to depths of over eight feet near the grand waterfall, with a
+        two-foot kiddy pool near the lifeguard station; the station is atop a bridge leading out to
+        an island with two full size palm trees on it. A grotto, where natural water-filled caves
+        stretch back over twelve feet into the hillside, is located across the pool from the island.
+        There is a sandy sunning area for sunbathers and a café area that is commonly used for
+        weddings and receptions. A walking path surrounds the whole complex. The pool received a
+        massive historical restoration in 1989. The pool has recently had another major
+        renovation which took eight months to complete (September 8, 2008 - April 30, 2009) and
+        has since re-opened to the public again.</string>
+
+    <string name="vizcaya_address">\n ADDRESS: \n 3251 S Miami Ave, Miami, FL 33129</string>
+    <string name="lincoln_road_address">\n ADDRESS: \n Lincoln Rd, Miami Beach, FL 33139</string>
+    <string name="coral_castle_address">\n ADDRESS: \n 28655 S Dixie Hwy, Homestead, FL 33033</string>
+    <string name="venetian_pool_address">\n ADDRESS: \n 2701 De Soto Blvd, Coral Gables, FL 33134</string>
+
+    <string name="vizcaya_hours">\n HOURS OF OPERATION: \n April 2017 – November 2017 \n \n
+        August 21, 2017 – September 10, 2017 \n • Monday – Friday: 11:00 a.m. – 5:30 p.m. \n
+        • Saturday – Sunday: 10:00 a.m. – 4:30 p.m. \n \n September 12, 2017 – October 29, 2017 \n
+        • Tuesday – Friday: 11:00 a.m. – 5:30 p.m. \n • Saturday – Sunday: 10:00 a.m. – 4:30 p.m. \n \n
+        October 31, 2017 – November 30, 2017 \n • Tuesday – Sunday: 10:00 a.m. – 4:30 p.m. \n </string>
+    <string name="lincoln_road_hours"> \n HOURS OF OPERATION: \n \n • Monday - Sunday 10:00 a.m. - 11:00 p.m.</string>
+    <string name="coral_castle_hours"> \n HOURS OF OPERATION: \n \n • Sunday - Thursday 9:00 a.m. - 5:00 p.m.
+        \n • Friday - Saturday 9:00 a.m. - 7:00 p.m. </string>
+    <string name="venetian_pool_hours"> \n HOURS OF OPERATION: \n \n • Monday - Sunday 10:00 a/m/ - 4:30 p.m.</string>
+    <string name="information">Information</string>
+    <string name="hours_directions"><![CDATA[Hours & Directions]]></string>
+</resources>
