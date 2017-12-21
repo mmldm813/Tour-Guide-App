@@ -6,6 +6,10 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.widget.TextView;
 
+import com.example.android.tourguideapp.details.AttractionAdapter;
+import com.example.android.tourguideapp.models.Attraction;
+import com.example.android.tourguideapp.models.City;
+
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
@@ -23,20 +27,20 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void createModels() {
-        attractions.add(new Attraction("Vizcaya Museum and Gardens",
+        attractions.add(new Attraction(getString(R.string.vizcaya_name),
                 R.drawable.villa_vizcaya, getString(R.string.vizcaya_description),
                 getString(R.string.vizcaya_address), getString(R.string.vizcaya_hours)));
-        attractions.add(new Attraction("Lincoln Road", R.drawable.lincoln_road,
+        attractions.add(new Attraction(getString(R.string.lincoln_road_name), R.drawable.lincoln_road,
                 getString(R.string.lincoln_road_description),
                 getString(R.string.lincoln_road_address), getString(R.string.lincoln_road_hours)));
-        attractions.add(new Attraction("Coral Castle", R.drawable.coralcastlenight,
+        attractions.add(new Attraction(getString(R.string.coral_castle_name), R.drawable.coralcastlenight,
                 getString(R.string.coral_castle_description),
                 getString(R.string.coral_castle_address), getString(R.string.coral_castle_hours)));
-        attractions.add(new Attraction("Venetian Pool", R.drawable.venetian_pool,
+        attractions.add(new Attraction(getString(R.string.venetian_pool_name), R.drawable.venetian_pool,
                 getString(R.string.venetian_pool_description),
                 getString(R.string.venetian_pool_address), getString(R.string.venetian_pool_hours)));
 
-        city = new City("Miami",getString(R.string.miami_city_description));
+        city = new City(getString(R.string.miami_name),getString(R.string.miami_city_description));
     }
 
     private void setupCityInfo() {

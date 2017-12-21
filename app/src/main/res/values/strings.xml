@@ -65,4 +65,13 @@
     <string name="venetian_pool_hours"> \n HOURS OF OPERATION: \n \n • Monday - Sunday 10:00 a/m/ - 4:30 p.m.</string>
     <string name="information">Information</string>
     <string name="hours_directions"><![CDATA[Hours & Directions]]></string>
+    <string name="vizcaya_name">Vizcaya Museum and Gardens</string>
+    <string name="lincoln_road_name">Lincoln Road</string>
+    <string name="coral_castle_name">Coral Castle</string>
+    <string name="venetian_pool_name">Venetian Pool</string>
+    <string name="miami_name">Miami</string>
+    <string name="description">description</string>
+    <string name="title">title</string>
+    <string name="address">address</string>
+    <string name="hours">hours</string>
 </resources>
